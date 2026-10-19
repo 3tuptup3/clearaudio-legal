@@ -4,5 +4,6 @@ Clear Audio のサポートページとプライバシーポリシー（GitHub P
 
 - サポート: https://3tuptup3.github.io/clearaudio-legal/
 - プライバシーポリシー: https://3tuptup3.github.io/clearaudio-legal/privacy.html
+- オープンソースライセンス: https://3tuptup3.github.io/clearaudio-legal/licenses.html（`noise-cancellation/expo-app/scripts/build-licenses.js` で生成）
 
 公開設定: Settings → Pages → Deploy from a branch → `main` / `(root)`
